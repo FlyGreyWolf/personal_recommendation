@@ -4,6 +4,7 @@ import util.reader as reader
 import math
 import operator
 def transfer_user_click(user_click):
+    print('fuck')
     item_click_by_user = {}
     for user in user_click:
         item_list = user_click[user]
