@@ -106,3 +106,4 @@ if __name__ == '__main__':
     userid = '1'
     rec_list = give_recom_result(user_vec, item_vec, userid)
     print(rec_list)
+    print('---')
