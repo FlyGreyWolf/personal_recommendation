@@ -4,7 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/CF/util/reader.py" description="#get all user favorite movies_id" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecee218c-1b3f-4b39-a8d7-a0481c4ae25b" name="Default Changelist" comment="lfm" />
+    <list default="true" id="ecee218c-1b3f-4b39-a8d7-a0481c4ae25b" name="Default Changelist" comment="lfm">
+      <change beforePath="$USER_HOME$/Desktop/personal_recommendation-master/personal_recommendation/LFM/production/lfm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/personal_recommendation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,32 +32,32 @@
         <counts>
           <entry key="ets" value="1" />
           <entry key="lalala" value="1" />
-          <entry key="py" value="15" />
+          <entry key="py" value="19" />
           <entry key="read" value="1" />
           <entry key="te" value="1" />
           <entry key="test" value="1" />
           <entry key="ttt" value="2" />
-          <entry key="txt" value="8" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="15" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8005" />
+          <entry key="py" value="9351" />
           <entry key="read" value="2" />
           <entry key="test" value="12" />
-          <entry key="txt" value="15" />
+          <entry key="txt" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="29" />
-          <entry key="Python" value="8005" />
+          <entry key="PLAIN_TEXT" value="87" />
+          <entry key="Python" value="9351" />
         </counts>
       </usages-collector>
     </session>
@@ -61,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CF/production/usercf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state>
+              <caret selection-end-line="2" selection-end-column="28" />
               <folding>
                 <marker date="1556438537003" expanded="true" signature="126:131" ph="..." />
                 <marker date="1556438537003" expanded="true" signature="490:495" ph="..." />
@@ -74,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LFM/data/movies.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="77">
@@ -86,8 +92,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LFM/data/ratings.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="350">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CF/production/itemcf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
+              <folding>
+                <marker date="1556530138145" expanded="true" signature="297:446" ph="..." />
+                <marker date="1556530138145" expanded="true" signature="2078:3159" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,29 +124,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LFM/util/reader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+            <state relative-caret-position="-345">
+              <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
               <folding>
-                <marker date="1556447813784" expanded="true" signature="97:862" ph="..." />
+                <element signature="e#55#64#0" expanded="true" />
+                <marker date="1556528959791" expanded="true" signature="112:877" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/personal_recommendation-master/personal_recommendation/Item2Vec/data/movies.txt">
+        <entry file="file://$PROJECT_DIR$/LFM/production/lfm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="2997" column="26" selection-start-line="2997" selection-start-column="26" selection-end-line="2997" selection-end-column="26" />
+            <state relative-caret-position="880">
+              <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1556529931324" expanded="true" signature="220:526" ph="..." />
+                <marker date="1556529931324" expanded="true" signature="574:579" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/personal_recommendation-master/personal_recommendation/PR/data/movies.txt">
+        <entry file="file://$USER_HOME$/Desktop/personal_recommendation-master/personal_recommendation/LFM/util/read.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2475" column="33" selection-start-line="2475" selection-start-column="33" selection-end-line="2475" selection-end-column="33" />
+            <state relative-caret-position="200">
+              <caret line="115" column="21" selection-start-line="72" selection-end-line="115" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -135,15 +160,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LFM/ttt">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/read">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -165,26 +181,30 @@
         <option value="$PROJECT_DIR$/util/reader.py" />
         <option value="$PROJECT_DIR$/CF/util/reader.py" />
         <option value="$PROJECT_DIR$/CF/production.py" />
-        <option value="$PROJECT_DIR$/CF/production/itemcf.py" />
         <option value="$PROJECT_DIR$/test/test1.py" />
         <option value="$PROJECT_DIR$/test/read" />
         <option value="$PROJECT_DIR$/CF/production/usercf.py" />
         <option value="$PROJECT_DIR$/LFM/test" />
-        <option value="$PROJECT_DIR$/LFM/data/ratings.txt" />
         <option value="$PROJECT_DIR$/LFM/production/__init__.py" />
         <option value="$PROJECT_DIR$/LFM/util/__init__.py" />
-        <option value="$PROJECT_DIR$/LFM/util/reader.py" />
         <option value="$PROJECT_DIR$/LFM/data/movies.txt" />
+        <option value="$PROJECT_DIR$/LFM/data/ratings.txt" />
+        <option value="$USER_HOME$/Desktop/personal_recommendation-master/personal_recommendation/LFM/production/lfm.py" />
+        <option value="$PROJECT_DIR$/LFM/util/reader.py" />
+        <option value="$PROJECT_DIR$/LFM/production/lfm.py" />
+        <option value="$PROJECT_DIR$/CF/production/itemcf.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="22" />
-    <option name="y" value="45" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2138" />
+    <option name="y" value="153" />
     <option name="width" value="1335" />
     <option name="height" value="890" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -205,6 +225,18 @@
             <path>
               <item name="personal_recommendation" type="b2602c69:ProjectViewProjectNode" />
               <item name="personal_recommendation" type="462c0819:PsiDirectoryNode" />
+              <item name="CF" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal_recommendation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_recommendation" type="462c0819:PsiDirectoryNode" />
+              <item name="CF" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal_recommendation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_recommendation" type="462c0819:PsiDirectoryNode" />
               <item name="LFM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -221,6 +253,35 @@
             </path>
             <path>
               <item name="personal_recommendation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_recommendation" type="462c0819:PsiDirectoryNode" />
+              <item name="LFM" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal_recommendation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_recommendation-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal_recommendation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_recommendation-master" type="462c0819:PsiDirectoryNode" />
+              <item name="personal_recommendation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal_recommendation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_recommendation-master" type="462c0819:PsiDirectoryNode" />
+              <item name="personal_recommendation" type="462c0819:PsiDirectoryNode" />
+              <item name="LFM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal_recommendation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_recommendation-master" type="462c0819:PsiDirectoryNode" />
+              <item name="personal_recommendation" type="462c0819:PsiDirectoryNode" />
+              <item name="LFM" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal_recommendation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_recommendation-master" type="462c0819:PsiDirectoryNode" />
               <item name="personal_recommendation" type="462c0819:PsiDirectoryNode" />
               <item name="LFM" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
@@ -281,6 +342,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lfm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="personal_recommendation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LFM/production" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LFM/production/lfm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="reader (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="personal_recommendation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,27 +376,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LFM/util/reader.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="personal_recommendation" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -367,18 +428,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test1" />
-      <item itemvalue="Python.reader" />
       <item itemvalue="Python.itemcf" />
       <item itemvalue="Python.usercf" />
       <item itemvalue="Python.reader (1)" />
+      <item itemvalue="Python.lfm" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.reader (1)" />
+        <item itemvalue="Python.lfm" />
         <item itemvalue="Python.usercf" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.itemcf" />
-        <item itemvalue="Python.reader" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +538,35 @@
       <option name="project" value="LOCAL" />
       <updated>1556446891678</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lfm update get_train_data() funciton">
+      <created>1556529862714</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556529862714</updated>
+    </task>
+    <task id="LOCAL-00014" summary="lfm uodate">
+      <created>1556529883831</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1556529883831</updated>
+    </task>
+    <task id="LOCAL-00015" summary="lfm update">
+      <created>1556529970192</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1556529970192</updated>
+    </task>
+    <task id="LOCAL-00016" summary="CF update">
+      <created>1556530149294</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1556530149294</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -490,21 +579,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="36" width="1068" height="712" extended-state="0" />
+    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36627907" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" weight="0.3512748" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7232497" weight="0.34985834" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.55" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.31586403" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.3512748" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.27675033" side_tool="true" weight="0.3512748" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -553,7 +642,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cf" />
     <MESSAGE value="lfm" />
-    <option name="LAST_COMMIT_MESSAGE" value="lfm" />
+    <MESSAGE value="lfm update get_train_data() funciton" />
+    <MESSAGE value="lfm uodate" />
+    <MESSAGE value="lfm update" />
+    <MESSAGE value="CF update" />
+    <option name="LAST_COMMIT_MESSAGE" value="CF update" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -588,24 +681,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LFM/production/itemcf.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/personal_recommendation-master/personal_recommendation/LFM/util/read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CF/production/itemcf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1730">
-          <caret line="77" column="23" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
-          <folding>
-            <marker date="1556375973899" expanded="true" signature="297:446" ph="..." />
-            <marker date="1556375973899" expanded="true" signature="2078:3187" ph="..." />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CF/util/reader.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -660,10 +735,31 @@
     <entry file="file://$PROJECT_DIR$/LFM/ttt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/LFM/data/movies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="136" column="40" selection-start-line="136" selection-start-column="40" selection-end-line="136" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LFM/data/ratings.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/personal_recommendation-master/personal_recommendation/LFM/util/read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="115" column="21" selection-start-line="72" selection-end-line="115" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CF/production/usercf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state>
+          <caret selection-end-line="2" selection-end-column="28" />
           <folding>
             <marker date="1556438537003" expanded="true" signature="126:131" ph="..." />
             <marker date="1556438537003" expanded="true" signature="490:495" ph="..." />
@@ -674,33 +770,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LFM/data/ratings.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/LFM/util/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LFM/production/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LFM/util/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/Desktop/personal_recommendation-master/personal_recommendation/LFM/production/lfm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="118" column="35" lean-forward="true" selection-start-line="118" selection-start-column="35" selection-end-line="118" selection-end-column="35" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LFM/util/reader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        <state relative-caret-position="-345">
+          <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
           <folding>
-            <marker date="1556447813784" expanded="true" signature="97:862" ph="..." />
+            <element signature="e#55#64#0" expanded="true" />
+            <marker date="1556528959791" expanded="true" signature="112:877" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LFM/data/movies.txt">
+    <entry file="file://$PROJECT_DIR$/LFM/production/lfm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="136" column="40" selection-start-line="136" selection-start-column="40" selection-end-line="136" selection-end-column="40" />
+        <state relative-caret-position="880">
+          <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1556529931324" expanded="true" signature="220:526" ph="..." />
+            <marker date="1556529931324" expanded="true" signature="574:579" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CF/production/itemcf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <marker date="1556530138145" expanded="true" signature="297:446" ph="..." />
+            <marker date="1556530138145" expanded="true" signature="2078:3159" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
