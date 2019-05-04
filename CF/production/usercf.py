@@ -36,7 +36,6 @@ def cal_user_sim(item_click_by_user, user_click_time):
             user_click_times[useri] += 1
             useri_click_time = user_click_time[useri + '_' + itemid]    #找出useri对itemi的点击时间
             for user_j in range(user_i+1,len(user_list)):
-
                 userj = user_list[user_j]
                 userj_click_time = user_click_time[userj + '_' + itemid]  # 找出userj对itemi的点击时间
                 co_appear.setdefault(useri, {})
